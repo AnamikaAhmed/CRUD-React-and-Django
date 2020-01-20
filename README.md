@@ -1,7 +1,7 @@
 # CRUD-React-and-Django
 The application :
-1) Creates a Django restful API and a frontend form.
-2) Pushes into the API
+1) Creates a Django restful API and a frontend form using React js.
+2) Pushes into the API from the form.
 3) Fetches from the API into a table. The table has option to edit and delete rows, and this directly interacts with the backend API
 
 4) Prints the table 
